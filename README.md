@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Asad 👋</h1>
+<h3 align="center">AI & Data Science Student | Python • ML • Data Analysis | Ex-Freelance Designer</h3>
 
-<!--
-**asadinventor/asadinventor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying **AI & Data Science Engineering**
+- 🤖 Focused on **Python, Machine Learning & Data Analysis**
+- 🎨 2 years of **Freelance Graphic Design** experience — real clients, real deadlines
+- 🌱 Currently building projects in **ML, Data Viz & Web Dev**
+- 📍 Based in **Gujranwala, Pakistan**
+
+<br/>
+
+## 🛠️ Skills
+
+**AI / Data**
+`Python` `Machine Learning` `Data Analysis` `Data Visualization`
+
+**Design**
+`Adobe Photoshop` `Adobe Illustrator` `Canva`
+
+**Web**
+`HTML` `CSS` `JavaScript`
+
+<br/>
+
+## 🚀 Projects
+
+| Project | Description |
+|--------|-------------|
+| 🍕 [BiteZone](https://asadmughal24.github.io/BiteZone) | Restaurant demo site — freelance workflow proof of concept |
+| 📊 MLR Regression Report | Professional ML report built with Python & ReportLab |
+
+<br/>
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asadinventor-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/asadinventor/)
+[![Email](https://img.shields.io/badge/Email-asadinventor@gmail.com-red?style=flat&logo=gmail)](mailto:asadinventor@gmail.com)
