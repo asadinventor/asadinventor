@@ -31,7 +31,7 @@
 | Project | Description |
 |--------|-------------|
 | 🍕 [BiteZone](https://asadinventor.github.io/BiteZone) | Restaurant demo site — freelance workflow proof of concept |
-| 📊 MLR Regression Report | Professional ML report built with Python & ReportLab |
+| 📊 [Regression Project](https://github.com/asadinventor/Regression-Project) | Professional ML report built with Python & ReportLab |
 
 <br/>
 
