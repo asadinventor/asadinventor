@@ -38,4 +38,4 @@
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-asadinventor-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/asadinventor/)
-[![Email](https://img.shields.io/badge/Email-asadinventor@gmail.com-red?style=flat&logo=gmail)](mailto:asadinventor@gmail.com)
+[![Email](https://img.shields.io/badge/Email-asadinventor@gmail.com-red?style=flat&logo=gmail)]([mailto:asadinventor@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=asadinventor@gmail.com))
